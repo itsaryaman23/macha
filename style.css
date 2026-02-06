@@ -1,0 +1,19 @@
+body{
+    background-color: Chocolate;
+    color: white;
+    width: auto;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 800px;
+    flex-wrap: wrap;
+
+
+
+}
+#btn{
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+}
